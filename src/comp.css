@@ -1,0 +1,14 @@
+body {
+    background-image: url('./background.jpg');
+}
+p {
+    color: #2F8BE2;
+    font-size: 30px;
+    font-family: cursive;
+}
+img.aliphoto {
+    width: 40%;
+    border: blue;
+    height: 450px;
+}
+
